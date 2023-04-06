@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "841e0c83-abf2-41dc-a250-bd99dd047170"
+      }
+    },
+    "owner": "zizouhuweidi"
   }
 }
